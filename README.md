@@ -9,3 +9,5 @@ This is a simple function for norming word stimuli using R. The function reads i
 * Num_Phono_Neighbors: the number of phonological neighbors from the CLEARPOND databsase.
 * Log10WF: log of the word frequency counts from the Subtlex database.
 * ZipF: A normalized word frequency measure from Subtlex. 
+
+Note that the function utilizes functions from the repmis package to download data from github and the syllable package to compute the number of syllables in the words.
