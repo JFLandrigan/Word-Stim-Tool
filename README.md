@@ -11,3 +11,6 @@ This is a simple function for norming word stimuli using R. The function reads i
 * ZipF: A normalized word frequency measure from Subtlex. 
 
 Note that the function utilizes functions from the repmis package to download data from github and the syllable package to compute the number of syllables in the words.
+
+CLEARPOND - http://clearpond.northwestern.edu/englishpond.php
+Subtlex - http://subtlexus.lexique.org/
